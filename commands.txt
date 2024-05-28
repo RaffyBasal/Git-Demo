@@ -33,3 +33,9 @@ Repository -- like a folder/container that stores files/folders related to a pro
 	git config --global user.email 
 		- to check if the username and email address are successfully connected
 file/folder
+
+* 	git log
+		- displays all the commits that were made
+
+* 	git log --oneline
+		- condensed version of the git log
